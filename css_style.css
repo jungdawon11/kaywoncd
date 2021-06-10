@@ -1,4 +1,6 @@
 
+   @keyframes scaleBounce {from {transform: scale(.7);} to {transform: scale(1.3);}}
+
     body {font-family: 'Noto Sans KR', sans-serif;}
 
     h1 {color: white;}
@@ -36,5 +38,13 @@
    #손_이미지 {margin-left: 90px;}
    #시디로고 { padding-left: 370px; position: relative; float: left;}
    #들어가 {width: 1650px; height: 10px; position: absolute; top: 370px; left:460px;}
+   #right_box1 {width: 1280; text-align: left; position: absolute; top: 450px; left: 370px;}
+   #right_box2 {width: 1280; text-align: left; position: absolute; top: 2780px; left: 370px;}
+   #right_box3 {width: 1280; text-align: left; position: absolute; top: 5200px; left: 370px;}
+
+   #left_box1 {width: 1280; text-align: right; position: absolute; top: 1600px; left: 1300px;}
+   #left_box2 {width: 1280; text-align: right; position: absolute; top: 4000px; left: 1300px;}
+   #left_box3 {width: 1280; text-align: right; position: absolute; top: 6350px; left: 1300px;}
+
    .main {background-color: black;}
     #footer {text-align: center; color: white; background-color: black; margin-top: 50px;}
