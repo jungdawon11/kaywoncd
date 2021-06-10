@@ -21,7 +21,7 @@
 	#main {background-color: black; color: white; position: relative; width: 100%; overflow: hidden;}
     small{font-size: 10pt;}
     #비디오 {margin: 50px 600px 30px 600px; background-color: black;}
-   .설명글 {text-align: center; background-image: url(뛰어가자.png); background-repeat: repeat;}
+   .설명글 {text-align: center; background-image: url(run.png); background-repeat: repeat;}
    #폴더 {position: center;}
   
    #평면조형 { width: 700px; height: 700px; padding-left: 960px; margin-bottom: 500px; text-align: right;}
