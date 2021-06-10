@@ -3,13 +3,15 @@
 
     h1 {color: white;}
 
-    img{margin-right: 30px; margin-top: 50px; margin-bottom: 50px;} 
+    img{margin-right: 30px; margin-top: 50px; margin-bottom: 50px; margin-left: 30px;} 
 
     p {text-align: center; position: relative;}
     
-    b {font-size: 20pt;}
+    b {font-size: 18pt;}
 
-    a { margin-right: 50px; margin-left: 20px;}
+    mark {background-color: lightgrey;}
+
+    a { margin-right: 5px; margin-left: 20px; text-decoration: none; color: white;}
     #container {background-color: black; color: white; position: relative; width: 100%; overflow: hidden; }
     .section {position: relative; width: 1080px; margin: 150px 370px;}
 	#top {margin-top:20px; margin-bottom: 20px; font-size: 150%;}
@@ -31,7 +33,8 @@
 
    #제작기초  { width: 1280px; height: 400px; margin-left: 370px; margin-bottom: 100px;}
    #손 { margin-top: 230px; text-align: center; float: left;}
+   #손_이미지 {margin-left: 90px;}
    #시디로고 { padding-left: 370px; position: relative; float: left;}
-
+   #들어가 {width: 1650px; height: 10px; position: absolute; top: 370px; left:460px;}
    .main {background-color: black;}
     #footer {text-align: center; color: white; background-color: black; margin-top: 50px;}
