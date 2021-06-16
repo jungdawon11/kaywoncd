@@ -1,0 +1,50 @@
+
+   @keyframes scaleBounce {from {transform: scale(.7);} to {transform: scale(1.3);}}
+
+    body {font-family: 'Noto Sans KR', sans-serif;}
+
+    h1 {color: white;}
+
+    img{margin-right: 30px; margin-top: 50px; margin-bottom: 50px; margin-left: 30px;} 
+
+    p {text-align: center; position: relative;}
+    
+    b {font-size: 18pt;}
+
+    mark {background-color: lightgrey;}
+
+    a { margin-right: 5px; margin-left: 20px; text-decoration: none; color: white;}
+    #container {background-color: black; color: white; position: relative; width: 100%; overflow: hidden; }
+    .section {position: relative; width: 1080px; margin: 150px 370px;}
+	#top {margin-top:20px; margin-bottom: 20px; font-size: 150%;}
+ 	#topTitle {position: relative; display: inline-block;}
+	#main {background-color: black; color: white; position: relative; width: 100%; overflow: hidden;}
+    small{font-size: 10pt;}
+    #비디오 {margin: 50px 600px 30px 600px; background-color: black;}
+   .설명글 {text-align: center; background-image: url(run.png); background-repeat: repeat;}
+   #폴더 {position: center;}
+  
+   #평면조형 { width: 700px; height: 700px; padding-left: 960px; margin-bottom: 500px; text-align: right;}
+   #기초디자인 { width: 700px; height: 700px; padding-left: 370px; margin-bottom: 500px;}
+   #타이포그래피 { width: 700px; height: 700px; padding-left: 370px; margin-bottom: 500px;}
+
+   .imgbox { width: 1280px; border-right: 370px; font-size: 15pt }
+   #디지털프로그래밍 { width: 700px; height: 700px; padding-left: 370px; margin-bottom: 500px;}
+   #컴퓨터그래픽 { width: 700px; height: 700px; padding-left: 960px; margin-bottom: 500px; text-align: right;}
+   #디지털드로잉 { width: 700px; height: 700px; padding-left: 960px; margin-bottom: 500px; text-align: right;}
+
+   #제작기초  { width: 1280px; height: 400px; margin-left: 370px; margin-bottom: 100px;}
+   #손 { margin-top: 230px; text-align: center; float: left;}
+   #손_이미지 {margin-left: 90px;}
+   #시디로고 { padding-left: 370px; position: relative; float: left;}
+   #들어가 {width: 1650px; height: 10px; position: absolute; top: 370px; left:460px;}
+   #right_box1 {width: 1280; text-align: left; position: absolute; top: 370px; left: 370px;}
+   #right_box2 {width: 1280; text-align: left; position: absolute; top: 2700px; left: 370px;}
+   #right_box3 {width: 1280; text-align: left; position: absolute; top: 5160px; left: 370px;}
+
+   #left_box1 {width: 1280; text-align: right; position: absolute; top: 1570px; left: 1300px;}
+   #left_box2 {width: 1280; text-align: right; position: absolute; top: 3980px; left: 1300px;}
+   #left_box3 {width: 1280; text-align: right; position: absolute; top: 6270px; left: 1300px;}
+
+   .main {background-color: black;}
+    #footer {text-align: center; color: white; background-color: black; margin-top: 50px;}
